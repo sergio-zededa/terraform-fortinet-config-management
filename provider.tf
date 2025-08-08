@@ -6,11 +6,3 @@ provider "zedcloud" {
 
 
 
-
-#provider "proxmox" {
-#  endpoint      = "https://192.168.1.10:8006"
-#  username = "root@pam"
-#  password = "Miquinhas.40"  
-      
-#  insecure = true # Set to true if using self-signed certificates
-#}
